@@ -4,8 +4,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:go_router/go_router.dart';
-import 'package:go_router/src/match.dart';
+import 'package:nested_go_router/go_router.dart';
+import 'package:nested_go_router/src/match.dart';
 
 void main() {
   group('RouteMatch', () {

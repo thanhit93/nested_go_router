@@ -8,10 +8,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/src/foundation/diagnostics.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:go_router/go_router.dart';
-import 'package:go_router/src/match.dart';
-import 'package:go_router/src/matching.dart';
-import 'package:go_router/src/typedefs.dart';
+import 'package:nested_go_router/go_router.dart';
+import 'package:nested_go_router/src/match.dart';
+import 'package:nested_go_router/src/matching.dart';
+import 'package:nested_go_router/src/typedefs.dart';
 
 Future<GoRouter> createGoRouter(
   WidgetTester tester, {

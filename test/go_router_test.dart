@@ -8,12 +8,12 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:go_router/src/delegate.dart';
-import 'package:go_router/src/match.dart';
-import 'package:go_router/src/misc/extensions.dart';
-import 'package:go_router/src/route.dart';
-import 'package:go_router/src/router.dart';
-import 'package:go_router/src/state.dart';
+import 'package:nested_go_router/src/delegate.dart';
+import 'package:nested_go_router/src/match.dart';
+import 'package:nested_go_router/src/misc/extensions.dart';
+import 'package:nested_go_router/src/route.dart';
+import 'package:nested_go_router/src/router.dart';
+import 'package:nested_go_router/src/state.dart';
 import 'package:logging/logging.dart';
 
 import 'test_helpers.dart';
