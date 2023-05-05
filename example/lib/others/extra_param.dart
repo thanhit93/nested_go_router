@@ -8,7 +8,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:go_router/go_router.dart';
+import 'package:nested_go_router/go_router.dart';
 
 final Map<String, dynamic> _families = const JsonDecoder().convert('''
 {

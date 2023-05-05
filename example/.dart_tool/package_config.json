@@ -110,12 +110,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "go_router",
-      "rootUri": "../../",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "http",
       "rootUri": "file:///Users/thanhtruong/.pub-cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
@@ -174,6 +168,12 @@
       "rootUri": "file:///Users/thanhtruong/.pub-cache/hosted/pub.dev/nested-1.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "nested_go_router",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
     },
     {
       "name": "package_info_plus",
@@ -422,7 +422,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2023-05-05T05:32:05.222627Z",
+  "generated": "2023-05-05T06:00:30.779712Z",
   "generator": "pub",
   "generatorVersion": "2.19.2"
 }
